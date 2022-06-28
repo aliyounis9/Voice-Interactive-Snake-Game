@@ -3,7 +3,7 @@
 
 ## 📝 Table of contents
 - [About](#about)
-- [Technology](#tech)
+- [Technologies](#tech)
 - [GIF Demo](#demo)
 - [Game in Action](#game)
 
