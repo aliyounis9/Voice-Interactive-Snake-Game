@@ -39,8 +39,8 @@ with normal keyboard arrows (up/down/right/left).
 ![](https://github.com/alitarek0/Voice-Interactive-Snake-Game/blob/main/snakeGame.gif)
 
 ## 🎮 Game in Action <a name = "game"></a>
-The voice-interactive version of the game can be played through [this link](https://editor.p5js.org/alitarek0/full/Gro3zIXEW) **(please make sure mic permission is allowerd through the browser.)**
-The normal version of the game (works through keyboard arrow keys) can be played through [this link](https://editor.p5js.org/alitarek0/full/U_C_TaQfG).
+* Voice-interactive version of the game can be played through [this link](https://editor.p5js.org/alitarek0/full/Gro3zIXEW) **(please make sure mic permission is allowerd through the browser.)**
+* Normal version of the game (works through keyboard arrow keys) can be played through [this link](https://editor.p5js.org/alitarek0/full/U_C_TaQfG).
 
 
 If you have any inquiries, please do not hesitate to reach out.
