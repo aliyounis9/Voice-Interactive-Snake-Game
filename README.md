@@ -10,7 +10,7 @@
 
 ## 📙 About <a name = "about"></a>
 Through the snake game, the player controls a long, thin creature,
-resembeling a snake, which roams around on a bordered plane, 
+resembling a snake, which roams around on a bordered plane, 
 picking up food (red squares). Each time the snake eats a piece of 
 food, its tail grows longer. Instead of losing when hitting the edges
 of the playing area, each opposite borders of the plane are  interconnected;
